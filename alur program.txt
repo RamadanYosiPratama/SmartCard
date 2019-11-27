@@ -1,0 +1,10 @@
+--Login--
+Username admin	
+Password Admin
+
+--Alur Program--
+Isi data Siswa
+buat KRS
+Input NIlai
+Liat Khs 
+Cetak Nilai
